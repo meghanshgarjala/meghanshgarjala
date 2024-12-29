@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Scientist<br>👯 I’m looking to collaborate on Machine learning projects<br>🤝 I’m looking for help with ML OPS<br>🌱 I’m currently learning LLM's/OBJ Detection<br>💬 Ask me about Data Science<br>⚡ Fun fact: My favourite sport is F1
+🔭 I’m currently working on Generative AI<br>👯 I’m looking to collaborate on ML/DL/Gen AI projects<br>🤝 I’m looking for help with Computer Vision<br>🌱 I’m currently learning AGENTIC AI<br>💬 Ask me about Data Science<br>⚡ Fun fact: My favourite sport is F1
 
 
 ## 🌐 Socials:
